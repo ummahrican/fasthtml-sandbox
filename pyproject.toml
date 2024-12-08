@@ -1,0 +1,10 @@
+[project]
+name = "fasthtml-sandbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.6",
+    "python-fasthtml>=0.10.1",
+]
